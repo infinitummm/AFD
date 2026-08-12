@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+aho_text.txt
+.superpowers/
+*.pdf
+Explicacion_Codigo_AFD.pdf
